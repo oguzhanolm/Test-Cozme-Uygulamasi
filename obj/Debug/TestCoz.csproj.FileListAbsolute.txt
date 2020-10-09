@@ -1,0 +1,453 @@
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.csprojAssemblyReference.cache
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.Properties.Resources.resources
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.csproj.GenerateResource.cache
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\TestCoz.exe.config
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\TestCoz.exe
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\TestCoz.pdb
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.csproj.CopyComplete
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.exe
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.pdb
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.exe.licenses
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.FrmOgrenci.resources
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.FrmOgretmen.resources
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\TestCoz.exe.config
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\TestCoz.exe
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\TestCoz.pdb
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Data.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.csprojAssemblyReference.cache
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.FrmOgrenci.resources
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.FrmOgretmen.resources
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.Properties.Resources.resources
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.csproj.GenerateResource.cache
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.exe.licenses
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.csproj.CopyComplete
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.exe
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.pdb
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\obj\Debug\TestCoz.FrmKullaniciGirisi.resources
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.CodeParser.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.DataAccess.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.DataAccess.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Yazılım Sınama\Ödevler\Yazılım Test Proje\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\obj\Debug\TestCoz.FrmKullaniciGirisi.resources
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ERGE\Desktop\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\TestCoz.exe.config
+D:\Github\TestCoz\TestCoz\bin\Debug\TestCoz.exe
+D:\Github\TestCoz\TestCoz\bin\Debug\TestCoz.pdb
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Dialogs.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Dialogs.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.csprojAssemblyReference.cache
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.FrmKullaniciGirisi.resources
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.FrmOgrenci.resources
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.FrmOgretmen.resources
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.Properties.Resources.resources
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.csproj.GenerateResource.cache
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.exe.licenses
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.csproj.CopyComplete
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.exe
+D:\Github\TestCoz\TestCoz\obj\Debug\TestCoz.pdb
